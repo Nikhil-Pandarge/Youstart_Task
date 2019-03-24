@@ -1,5 +1,5 @@
 # Youstart_Task
-This repository regarding Youstart Company assignment task during hiring process, Please take note that don't use this for copy or feminism reason just refer it.
+This repository regarding Youstart Company assignment that has provided by Youstart company task during hiring process, Please take note that don't use this for copy or feminism reason just refer & learn from it.
 
 
 The Question regarding task as follows:
